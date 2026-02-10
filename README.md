@@ -22,3 +22,13 @@ Specific to Solana:
 - PoH (Proof of History). It profs that the time moves by making continous hashing with timestamps. It is a cryptographic clock.
 - Continous hashing: hash_n = hash(hash_n-1 + timestamp)
 - Transaction added to PoH hashing.
+
+
+## 📊 Week 1 Progress (Days 1-4)
+- ✅ **Day 1**: Blockchain basics (Feynman)
+- ✅ **Day 2**: PoS vs PoW ASCII art
+- ✅ **Day 3**: Smart contracts (vending machine)
+- ✅ **Day 4**: Portfolio structure 📁
+
+**Anki stats**: [HERE screenshot]
+
