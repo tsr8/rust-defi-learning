@@ -32,3 +32,15 @@ Specific to Solana:
 
 **Anki stats**: [HERE screenshot]
 
+
+## Day 5: First Solana Transaction 👻
+
+**Phantom wallet setup complete!**
+
+1. ✅ Wallet created (devnet)
+2. ✅ Airdropped 2 SOL 
+3. ✅ Sent 0.001 SOL tx → [explorer.solana.com/tx/SIGNATURE]
+   
+![First TX](screenshots/first-tx.png)
+
+**Anki stats**: [screenshot]
