@@ -44,3 +44,11 @@ Specific to Solana:
 ![First TX](screenshots/first-tx.png)
 
 **Anki stats**: [screenshot]
+
+## Day 6: FIRST Anchor Program Deployed 🚀
+
+**Commands executed:**
+```bash
+$ anchor init anchor-counter
+$ anchor build  
+$ anchor deploy → ProgramId: [COPY FROM OUTPUT]
