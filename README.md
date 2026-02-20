@@ -52,6 +52,7 @@ Specific to Solana:
 $ anchor init anchor-counter
 $ anchor build  
 $ anchor deploy → ProgramId: [COPY FROM OUTPUT]
+```
 
 ## 🏆 WEEK 1 COMPLETE - SMART CONTRACTS UNLOCKED
 
