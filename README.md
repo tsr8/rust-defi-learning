@@ -52,3 +52,9 @@ Specific to Solana:
 $ anchor init anchor-counter
 $ anchor build  
 $ anchor deploy → ProgramId: [COPY FROM OUTPUT]
+
+## 🏆 WEEK 1 COMPLETE - SMART CONTRACTS UNLOCKED
+
+![Week 1 Badge](screenshots/week1-complete.png)
+
+**Next: Week 2 - Building DeFi Swapper (Days 8-14)**
