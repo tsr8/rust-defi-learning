@@ -51,7 +51,7 @@ Specific to Solana:
 ```bash
 $ anchor init anchor-counter
 $ anchor build  
-$ anchor deploy → ProgramId: [COPY FROM OUTPUT]
+$ anchor deploy → ProgramId: FyHs8WorpQS28EPHJzZuwUGJo2bdXRMqLRxV82JpFEuv
 ```
 
 ## 🏆 WEEK 1 COMPLETE - SMART CONTRACTS UNLOCKED
